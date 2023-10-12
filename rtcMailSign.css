@@ -1,0 +1,62 @@
+* {
+  padding: 0;
+  margin-left: 10px;
+}
+body {
+  background: #f9f9f9;
+  font-size: 12px;
+  font-family: "Times New Roman", Times, serif;
+}
+.logo {
+  width: 30%;
+  text-align: center;
+}
+.name {
+  color: #2755a3;
+  width: 30%;
+  font-weight: bolder;
+  text-align: center;
+  border-bottom: 1px solid #2755a3;
+  height: 60px;
+}
+.persona {
+  font-size: 18px;
+  font-family: "Caveat", cursive;
+  font-style: italic;
+  margin-bottom: 10px;
+  line-height: 20px;
+}
+.oficio {
+  font-size: 18px;
+  font-family: "Caveat", cursive;
+  line-height: 20px;
+}
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 0px;
+  height: 7px;
+}
+.data {
+  color: #262633;
+  font-size: 6px;
+  margin-top: 15px;
+  font-size: 10px;
+  display: inline-block;
+  font-weight: 700;
+}
+img {
+  vertical-align: top;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+.aviso {
+  color: #262633;
+  width: 30%;
+  text-align: justify;
+  margin-top: 20px;
+  font-size: 6px;
+}
+a {
+  margin-left: 0px;
+}
